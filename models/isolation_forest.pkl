@@ -1,0 +1,1 @@
+# Placeholder for models/isolation_forest.pkl in project-1-iot-anomaly
